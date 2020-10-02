@@ -1,0 +1,7 @@
+k = int (input("masukkan nilai ke 1= "))
+l = int (input("masukkan nilai ke 2= "))
+m = int (input("masukkan nilai ke 3= "))
+n = int (input("masukkan nilai ke 4= "))
+o =  int (input("masukkan nilai ke 5= "))
+rata= ((k+l+m+n+o)/5)
+print("Hasil rata-rata: ", rata-rata)
